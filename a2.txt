@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 1232312312321this is two test
+=======
+this is two test
+
+hahahhahaha
+>>>>>>> ccf64ae4093c1a206a55520d253ffbbc89495c3f
